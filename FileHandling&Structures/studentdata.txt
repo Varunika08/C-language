@@ -1,0 +1,3 @@
+NAME 		 AGE 		 CGPA 		 COURSE 
+riya 		 18 		 9.200000 		 ece
+diya 		 19 		 9.100000 		 cse
