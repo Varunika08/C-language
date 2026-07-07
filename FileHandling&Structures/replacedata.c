@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-//to replace the strings of the file read.c with the number of vowels in that string.
+//to replace the strings of the file read.c with the number of vowels in that string
+//text.txt file is used.
 
 int main(){
     FILE *fptr;
