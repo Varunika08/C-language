@@ -1,0 +1,5 @@
+1     pamala               18    9.450      cse        94.650    
+2     serena               18    9.500      aiml       95.340    
+3     akanksha             19    9.250      ece        96.850    
+4     harshad              19    9.857      ise        96.980    
+5     ram                  18    9.485      eee        98.650    
